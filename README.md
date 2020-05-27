@@ -73,7 +73,9 @@ The simple ToDo List for web-site.
 |Organization | Certificate | Credentials |
 :-: | --- | :-: |
 
-![image size](https://s.dou.ua/CACHE/images/img/static/companies/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2017-11-14_%D0%B2_20.05.00/71ebc1dfa597afc902e1f2a21300aafc.png) {:height="700px" width="400px"} | [Front-End for Beginners - web academy] | Finished in 2019
+<img src="https://s.dou.ua/CACHE/images/img/static/companies/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2017-11-14_%D0%B2_20.05.00/71ebc1dfa597afc902e1f2a21300aafc.png" width="50"> | [Front-End for Beginners - web academy] | Finished in 2019
+
+
 
 ![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass) | In Progress...
 
