@@ -73,7 +73,7 @@ The simple ToDo List for web-site.
 |Organization | Certificate | Credentials |
 :-: | --- | :-: |
 
-![img]() | [Front-End for Beginners - web academy] | Finished in 2019
+![img](https://static.tildacdn.com/tild3839-6439-4038-b035-346532366364/tild3333-6337-4063-b.png) | [Front-End for Beginners - web academy] | Finished in 2019
 
 ![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass) | In Progress...
 
@@ -92,7 +92,7 @@ The simple ToDo List for web-site.
 
 ## University Education
 
-**Kyiv Nation University of Building and Architecture**
+*Kyiv Nation University of Building and Architecture*
 
 ***Ph.D. of Technical Science***: `Building Constructions, Buildings and Structures`
 
