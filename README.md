@@ -51,7 +51,7 @@ The simple ToDo List for web-site.
 
 ---
 
-### .....
+<!-- ### .....
 
 ##### ........
 
@@ -65,7 +65,7 @@ The simple ToDo List for web-site.
 * ...
 * ...
 
----
+--- -->
 
 
 ## Trainings & Certifications
@@ -74,13 +74,21 @@ The simple ToDo List for web-site.
 :-: | --- | :-: |
 
 ![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduzorro.com%2Fcourses%2Fweb-academy%2F&psig=AOvVaw0NM6tl77zqjWukXiZSp9yp&ust=1590693696990000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiQwYzi1OkCFQAAAAAdAAAAABAJ) | [Front-End for Beginners - web academy] | Finished in 2019
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript + React ](https://www.udemy.com/course/javascript_full) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ The Modern JavaScript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ The Web Developer Bootcamp ](https://www.udemy.com/course/the-web-developer-bootcamp) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux) | In Progress...
+
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ Web Design for Web Developers: Build Beautiful Websites ](https://www.udemy.com/course/web-design-secrets) | In Progress...
+
 
 ## University Education
 
