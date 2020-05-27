@@ -3,11 +3,11 @@
 ### Junior Front-end developer :electron:
 
 ---
-* Email: [bova.yao@gmail.com](mailto:bova.yao@gmail.com):e-mail:
-* Skype: [live:boyaal24](https://join.skype.com/invite/):camera_flash:
-* linkedin: [yaroslav-bova](https://linkedin.com/in/yaroslav-bova):pager:
+* Email: [bova.yao@gmail.com](mailto:bova.yao@gmail.com) :e-mail:
+* Skype: [live:boyaal24](https://join.skype.com/invite/) :camera_flash:
+* linkedin: [yaroslav-bova](https://linkedin.com/in/yaroslav-bova) :pager:
 
-Based in Kyiv, Ukr.:ukraine:
+Based in Kyiv, Ukr :ukraine:
 
 **Can work remotely.**
 
@@ -73,7 +73,7 @@ The simple ToDo List for web-site.
 |Organization | Certificate | Credentials |
 :-: | --- | :-: |
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduzorro.com%2Fcourses%2Fweb-academy%2F&psig=AOvVaw0NM6tl77zqjWukXiZSp9yp&ust=1590693696990000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiQwYzi1OkCFQAAAAAdAAAAABAJ) | [Front-End for Beginners - web academy] | Finished in 2019
+![img]() | [Front-End for Beginners - web academy] | Finished in 2019
 
 ![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass) | In Progress...
 
@@ -94,13 +94,13 @@ The simple ToDo List for web-site.
 
 **Kyiv Nation University of Building and Architecture**
 
-Ph.D. of Technical Science: `Building Constructions, Buildings and Structures`
+***Ph.D. of Technical Science***: `Building Constructions, Buildings and Structures`
 
-2008 - 2013
+`2008 - 2013`
 
-Master's degree: `Industrial and Civil Engineering`
+***Master's degree***: `Industrial and Civil Engineering`
 
-2002 – 2007 
+`2002 – 2007`
 
 
 
