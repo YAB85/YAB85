@@ -1,19 +1,19 @@
-# Anastasia Petrova 
+# Yaroslav Bova 
 
-### iOS Engineer 👩‍💻
+### Junior Front-end developer :electron:
 
 ---
-* Email: [anastasia.iosdev@gmail.com](mailto:anastasia.iosdev@gmail.com)
-* Skype: [anastasia.iosdev@gmail.com](https://join.skype.com/invite/eqXDgJDgSNi3)
-* Telegram: [@anastasiaiosdev](https://t.me/anastasiaiosdev)
+* Email: [bova.yao@gmail.com](mailto:bova.yao@gmail.com):e-mail:
+* Skype: [live:boyaal24](https://join.skype.com/invite/):camera_flash:
+* linkedin: [yaroslav-bova](https://linkedin.com/in/yaroslav-bova):pager:
 
-Based in London, UK.
+Based in Kyiv, Ukr.:ukraine:
 
 **Can work remotely.**
 
 ---
 
-I build iOS apps and write Swift libraries. I love OSS and try to put all my stuff on GitHub, where you are most likely reading this. 
+I build web-sites and web-application with JavaScript libraries. I love web Programming and try to put all my Projects on GitHub, where you are most likely reading this. 
 
 I spend a lot of time learning new skills. Currently, I'm invested into *Functional Programming*, *Image processing*, *Unit Testing* and *Application Architecture*.
 
@@ -23,90 +23,76 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 
 ## Skills
 
-* Swift
-* `UIKit`
-* `XCTest` & Unit Testing
-* Snapshot Testing
-* MVC
-* Push Notifications
-* `AVFoundation` (beginner)
-* `CoreData` (beginner)
+* HTML5
+* CSS3
+* SASS/SCSS
+* Bootstrap 4
+* BEM
+* JavaScript (ES5/ES6/Es7)
+* jQuery
+* React
+* Redux
+* Node.js
 * Functional Programming (beginner)
-
-## Employment history
-
-![img](https://i.imgur.com/bNgEOkD.png) [e9ine](https://www.linkedin.com/company/e9ine/)
-
- **iOS Engineer** - Full-time (May 2020 - Now)
- 
- Working on a greenfield SwiftUI and Combine application for Business Media Outlet.
-
 
 ## Projects
 
 
-### Snapvideo
-##### [Open Source on GitHub](https://github.com/Anastasia-Petrova/Snapvideo) 
-Video Editing application inspired by Snapseed. 
+### ToDo List
+##### [Open Source on GitHub](https://github.com/YAB85/ToDoList) 
+The simple ToDo List for web-site. 
 
 **Tech:**
 
-* 100% Swift 5 & iOS SDK 13
-* `AVFoundation` & `Metal` (in progress)
-* CircleCI
-* Snapshot Testing 
-* `XCTest` (>60% Code Coverage and growing)
-* Functional Programming
-* MVC
-* Swift Package Manager
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
 
 ---
 
-### EasyCoreData
+### .....
 
-##### [Open Source on GitHub](https://github.com/Anastasia-Petrova/EasyCoreData)
+##### ........
 
-Library that makes life with `CoreData` easy.
+........
 
 **Tech:**
 
-* `CoreData`, duh!
-* `UIKit`
-* Swift Generics
-* Swift Protocols with Associated Types
-* `XCTest` (in progress)
+* ...
+* ...
+* ...
+* ...
+* ...
 
 ---
 
-### TodoList
-
-##### [Open Source on GitHub](https://github.com/Anastasia-Petrova/TodoList)
-
-Minimalistic To-Do application. Provides a persistant storage for your notes and sends you push notifications with reminders. 
-
-**Tech:**
-
-* `CoreData`
-* `UserNotifications`/`Push Notifications`
-* 100% Swift 5
-* `XCTest`
 
 ## Trainings & Certifications
 
 |Organization | Certificate | Credentials |
 :-: | --- | :-: |
-![img](https://i.imgur.com/P2cYqCX.jpg)| [iOS Developer Nanodegree Program](https://www.udacity.com/course/ios-developer-nanodegree--nd003) | [Credential](https://confirm.udacity.com/NPNN4G3)
-![img](https://i.imgur.com/MU8kQGS.png)| [Apple iOS 7 Development](https://www.brainbench.com/testcenter/taketest/Apple-iOS-7-Development/3297) |  [Credential](https://www.brainbench.com/xml/bb/transcript/public/viewtranscript.xml?pid=14255377) 
-![img](https://i.imgur.com/Zv2qeeT.png)  | [Swift 5: Protocol-Oriented Programming](http://www.linkedin.com/learning/swift-5-protocol-oriented-programming) | Not Provided
-![img](https://i.imgur.com/d7FVRFX.png)|  [iOS 13 & Swift 5 - Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) | In Progress...
+
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduzorro.com%2Fcourses%2Fweb-academy%2F&psig=AOvVaw0NM6tl77zqjWukXiZSp9yp&ust=1590693696990000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiQwYzi1OkCFQAAAAAdAAAAABAJ) | [Front-End for Beginners - web academy] | Finished in 2019
+![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript + React ](https://www.udemy.com/course/javascript_full) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [ The Modern JavaScript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [ The Web Developer Bootcamp ](https://www.udemy.com/course/the-web-developer-bootcamp) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux) | In Progress...
+![img](https://i.imgur.com/d7FVRFX.png)|  [ Web Design for Web Developers: Build Beautiful Websites ](https://www.udemy.com/course/web-design-secrets) | In Progress...
 
 ## University Education
 
-**Luhansk Taras Shevchenko National University**
+**Kyiv Nation University of Building and Architecture**
 
-Bachelor's degree: Economics
+Ph.D. of Technical Science: `Building Constructions, Buildings and Structures`
 
-2015 – 2019
+2008 - 2013
+
+Master's degree: `Industrial and Civil Engineering`
+
+2002 – 2007 
 
 
 
