@@ -30,10 +30,11 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * BEM
 * JavaScript (ES5/ES6/Es7)
 * jQuery
-* React
+* ReactJS
 * Redux
 * Node.js
-* Functional Programming (beginner)
+* Functional Programming
+* TypeScript
 
 ## Projects
 
@@ -74,13 +75,13 @@ The simple ToDo List for web-site.
 :-: | --- | :-: |
 <img src="https://s.dou.ua/CACHE/images/img/static/companies/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2017-11-14_%D0%B2_20.05.00/71ebc1dfa597afc902e1f2a21300aafc.png" width="50">| [Front-End for Beginners - web academy]| Finished in 2019
 ![img](https://i.imgur.com/d7FVRFX.png)|  [Advanced CSS and Sass: Flexbox, Grid, Animations and more ...](https://www.udemy.com/course/advanced-css-and-sass)| Finished in 2020
-![img](https://i.imgur.com/d7FVRFX.png)|  [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course)| In Progress...(85%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript + React ](https://www.udemy.com/course/javascript_full)| In Progress...(45%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ The Modern JavaScript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial)| In Progress...(20%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ The Web Developer Bootcamp ](https://www.udemy.com/course/the-web-developer-bootcamp)| In Progress...(45%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux)| In Progress...(0%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ Web Design for Web Developers: Build Beautiful Websites ](https://www.udemy.com/course/web-design-secrets)| In Progress...(5%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript - The Complete Guide 2020 (Beginner + Advanced) ](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)| In Progress...(25%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course)| In Progress...(95%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript + React ](https://www.udemy.com/course/javascript_full)| In Progress...(85%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ The Modern JavaScript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial)| In Progress...(85%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ The Web Developer Bootcamp ](https://www.udemy.com/course/the-web-developer-bootcamp)| In Progress...(55%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux)| In Progress...(60%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ Web Design for Web Developers: Build Beautiful Websites ](https://www.udemy.com/course/web-design-secrets)| In Progress...(80%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript - The Complete Guide 2020 (Beginner + Advanced) ](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)| In Progress...(75%)
 
 
 ## University Education
