@@ -30,14 +30,20 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * SASS/SCSS
 * Bootstrap 4
 * BEM
+* MaterialUI, styled-components
 * JavaScript (ES5/ES6/Es7)
 * ReactJS
-* Redux
+* Redux, Saga, Thunk, Redux-Toolkit (+TypeScript)
+* Rest API (fetch, axios) (+TypeScript)
+* Jest, React Testing Library
 * Node.js
 * Angular
 * RxJS
 * Functional Programming
 * TypeScript
+* MongoDB
+* Firebase
+* Git, Postman
 
 ---
 
@@ -121,7 +127,7 @@ The simple App for creating and editing your own blog.
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript - The Complete Guide 2020 (Beginner + Advanced) ](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)| In Progress...(90%)
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ Mastering TypeScript ](https://www.udemy.com/course/learn-typescript)| In Progress...(50%)
 
-
+---
 
 ## University Education
 
@@ -135,7 +141,13 @@ The simple App for creating and editing your own blog.
 
 `2002 – 2007`
 
+---
 
+## Languages
+
+*English* - B1
+*Germany* - A1+ 
+*Ukrainian* - C2
 
 
 
