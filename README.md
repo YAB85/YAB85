@@ -39,7 +39,10 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * Functional Programming
 * TypeScript
 
+---
+
 ## Projects
+
 
 
 ### ToDo List
@@ -53,7 +56,7 @@ The simple ToDo List for web-site.
 * JavaScript
 * jQuery
 
----
+
 
 ### Movies
 ##### [Open Source on GitHub](https://github.com/YAB85/MoviesReact) 
@@ -69,7 +72,7 @@ The simple App for finding movies.
 * Apollo
 * StoryBook
 
----
+
 
 ### Blog
 ##### [Open Source on GitHub](https://github.com/YAB85/AngularBlog) 
