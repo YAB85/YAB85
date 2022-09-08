@@ -7,7 +7,9 @@
 * Skype: [live:boyaal24](https://join.skype.com/invite/) :camera_flash:
 * linkedin: [yaroslav-bova](https://linkedin.com/in/yaroslav-bova) :pager:
 
-Based in Kyiv :ukraine:
+From Kyiv :ukraine:
+
+Based in Berlin :germany:
 
 **Can work remotely.**
 
@@ -29,10 +31,11 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * Bootstrap 4
 * BEM
 * JavaScript (ES5/ES6/Es7)
-* jQuery
 * ReactJS
 * Redux
 * Node.js
+* Angular
+* RxJS
 * Functional Programming
 * TypeScript
 
@@ -51,6 +54,37 @@ The simple ToDo List for web-site.
 * jQuery
 
 ---
+
+### Movies
+##### [Open Source on GitHub](https://github.com/YAB85/MoviesReact) 
+The simple App for finding movies. 
+
+**Tech:**
+
+* HTML5
+* CSS3
+* JavaScript
+* ReactJS
+* GraphQL
+* Apollo
+* StoryBook
+
+---
+
+### Blog
+##### [Open Source on GitHub](https://github.com/YAB85/AngularBlog) 
+The simple App for creating and editing your own blog. 
+
+**Tech:**
+
+* HTML5
+* CSS3
+* JavaScript
+* Angular
+* RxJS
+* Firebase
+* Typescript
+
 
 <!-- ### .....
 
@@ -79,9 +113,11 @@ The simple ToDo List for web-site.
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript + React ](https://www.udemy.com/course/javascript_full)| In Progress...(85%)
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ The Modern JavaScript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial)| In Progress...(85%)
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ The Web Developer Bootcamp ](https://www.udemy.com/course/the-web-developer-bootcamp)| In Progress...(55%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux)| In Progress...(60%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ React - The Complete Guide (incl Hooks, React Router, Redux ](https://www.udemy.com/course//react-the-complete-guide-incl-redux)| In Progress...(90%)
 ![img](https://i.imgur.com/d7FVRFX.png)|  [ Web Design for Web Developers: Build Beautiful Websites ](https://www.udemy.com/course/web-design-secrets)| In Progress...(80%)
-![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript - The Complete Guide 2020 (Beginner + Advanced) ](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)| In Progress...(75%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ JavaScript - The Complete Guide 2020 (Beginner + Advanced) ](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)| In Progress...(90%)
+![img](https://i.imgur.com/d7FVRFX.png)|  [ Mastering TypeScript ](https://www.udemy.com/course/learn-typescript)| In Progress...(50%)
+
 
 
 ## University Education
