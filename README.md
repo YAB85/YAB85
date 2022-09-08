@@ -7,9 +7,9 @@
 * Skype: [live:boyaal24](https://join.skype.com/invite/) :camera_flash:
 * linkedin: [yaroslav-bova](https://linkedin.com/in/yaroslav-bova) :pager:
 
-From Kyiv :ukraine:
+From Kyiv, Ukraine
 
-Based in Berlin :germany:
+Based in Berlin, Germany
 
 **Can work remotely.**
 
