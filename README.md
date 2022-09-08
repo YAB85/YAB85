@@ -1,6 +1,6 @@
 # Yaroslav Bova 
 
-### Junior Front-end developer :electron:
+### Front-end developer :electron:
 
 ---
 * Email: [bova.yao@gmail.com](mailto:bova.yao@gmail.com) :e-mail:
