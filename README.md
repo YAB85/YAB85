@@ -1,5 +1,3 @@
-# Yaroslav Bova 
-
 ### Front-end developer :electron:
 
 ---
