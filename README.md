@@ -31,8 +31,9 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * MaterialUI, styled-components
 * JavaScript (ES5/ES6/Es7)
 * ReactJS
-* Redux, Saga, Thunk, Redux-Toolkit (+TypeScript)
-* Rest API (fetch, axios) (+TypeScript)
+* Redux, Saga, Thunk, Redux-Toolkit
+* Rest API (fetch, axios) 
+* TypeScript
 * Jest, React Testing Library
 * Node.js
 * Angular
