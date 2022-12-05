@@ -7,7 +7,7 @@
 
 From Kyiv, Ukraine
 
-Based in Berlin, Germany
+Based in Pula, Croatia
 
 **Can work remotely.**
 
@@ -16,8 +16,6 @@ Based in Berlin, Germany
 I build web-sites and web-application with JavaScript libraries. I love web Programming and try to put all my Projects on GitHub, where you are most likely reading this. 
 
 I spend a lot of time learning new skills. Currently, I'm invested into *Functional Programming*, *Image processing*, *Unit Testing* and *Application Architecture*.
-
-**I'm open to job opportunities**. If you are a recruiter or hiring manager or just want to refer me to your company - feel free to reach out! 
 
 ---
 
